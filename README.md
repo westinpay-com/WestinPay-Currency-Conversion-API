@@ -1,6 +1,8 @@
 # WestinPay-Currency-Conversion-API
 The WestinPay Currency Conversion API is a tool used for fast and reliable currency conversions by providing access to current and historical exchange rates. With this API, you can easily retrieve current and historical exchange rates for 32 different international currencies and seamlessly perform your transactions.
 
+![Currency Conversion API](https://westinpay.com/m/fiat.png)
+
 # Free Currency Conversion API
 
 WestinPay’s free API provides access to current and historical exchange rates, ensuring your currency conversions are fast and seamless with reliable, up-to-date data.
